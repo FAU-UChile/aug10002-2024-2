@@ -33,11 +33,11 @@
 
 ## horarios y fechas
 
-<!-- - cátedra jueves 10:15am-1:30pm
-- ayudantía viernes 3pm-4:30pm
-- cátedras y ayudantías entre 2024-03-14 y 2024-06-28
+- cátedra jueves 03pm-06:15pm
+- ayudantía miércoles 04:45pm-06:15pm
+- cátedras y ayudantías entre 2024-08-05 y 2024-11-28
 - controles, 1 vez al mes
-- semana de receso entre 2024-04-29 y 2024-05-03 -->
+- semana de receso entre 2024-11-11 y 2024-11-15
 
 ## calendario de evaluaciones
 
