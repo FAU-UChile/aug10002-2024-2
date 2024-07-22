@@ -53,9 +53,9 @@
 | [ayudantia-01](ayudantias/ayudantia-01/) | 2024-08-07 miércoles | presentación del equipo docente                  |
 | [clase-01](clases/clase-01/)             | 2024-08-08 jueves    | unidad 1: fuerzas                                |
 | [ayudantia-02](ayudantias/ayudantia-02/) | 2024-08-14 miércoles | unidad 1: fuerzas                                |
-| [clase-02](clases/clase-02/)             | 2024-08-15 jueves    | unidad 2: cinemática en 1 y 2 dimensiones        |
+| [clase-02](clases/clase-02/)             | 2024-08-15 jueves    | no hay sesión por feriado                        |
 | [ayudantia-03](ayudantias/ayudantia-03/) | 2024-08-21 miércoles | unidad 2: cinemática en 1 y 2 dimensiones        |
-| [clase-03](clases/clase-03/)             | 2024-08-22 jueves    | unidad 3: dinámica en 1 y 2 dimensiones          |
+| [clase-03](clases/clase-03/)             | 2024-08-22 jueves    | unidad 2: cinemática en 1 y 2 dimensiones        |
 | [ayudantia-04](ayudantias/ayudantia-04/) | 2024-08-28 miércoles | unidad 3: dinámica en 1 y 2 dimensiones          |
 | [clase-04](clases/clase-04/)             | 2024-08-29 jueves    | repaso y ejercicios unidades 1, 2, 3             |
 | [ayudantia-05](ayudantias/ayudantia-05/) | 2024-09-04 miércoles | control 1: unidades 1, 2, 3                      |
@@ -74,8 +74,8 @@
 | [ayudantia-11](ayudantias/ayudantia-11/) | 2024-10-23 miércoles | unidad 7: ondas y análisis de Fourier            |
 | [clase-11](clases/clase-11/)             | 2024-10-24 jueves    | repaso y ejercicios unidades 6, 7                |
 | [ayudantia-12](ayudantias/ayudantia-12/) | 2024-10-30 miércoles | control 3: unidades 6, 7                         |
-| [clase-12](clases/clase-12/)             | 2024-10-31 jueves    | unidad 8: mecánica de fluidos                    |
-| [ayudantia-13](ayudantias/ayudantia-13/) | 2024-11-06 miércoles | unidad 8: mecánica de fluidos                    |
+| [clase-12](clases/clase-12/)             | 2024-10-31 jueves    | no hay clase por feriado                         |
+| [ayudantia-13](ayudantias/ayudantia-13/) | 2024-11-06 miércoles | preparación salida a terreno                     |
 | [clase-13](clases/clase-13/)             | 2024-11-07 jueves    | salida a terreno                                 |
 | semana de trabajo autónomo               | 2024-11-11/15        | sin clases, entrega trabajo de investigación     |
 | [ayudantia-14](ayudantias/ayudantia-14/) | 2024-11-20 miércoles | unidad 8: mecánica de fluidos                    |
