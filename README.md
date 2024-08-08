@@ -50,7 +50,7 @@
 
 | sesión                                   | fecha                | tema                                             |
 | :--------------------------------------- | :------------------- | :----------------------------------------------- |
-| [ayudantia-01](ayudantias/ayudantia-01/) | 2024-08-07 miércoles | presentación del equipo docente                  |
+| [ayudantia-01](ayudantias/ayudantia-01/) | 2024-08-07 miércoles | no hay ayudantía                                 |
 | [clase-01](clases/clase-01/)             | 2024-08-08 jueves    | unidad 1: fuerzas                                |
 | [ayudantia-02](ayudantias/ayudantia-02/) | 2024-08-14 miércoles | unidad 1: fuerzas                                |
 | [clase-02](clases/clase-02/)             | 2024-08-15 jueves    | no hay sesión por feriado                        |
