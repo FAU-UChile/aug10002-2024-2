@@ -11,7 +11,7 @@
 - semestre: segundo semestre 2024
 - profesore: [aarón montoya-moraga](https://github.com/montoyamoraga)
 - ayudante: [andrés martin mena](https://github.com/AndresMartinM)
-- estudiantes inscritos: TODO
+- estudiantes inscritos: 11
 
 ## repositorio
 
