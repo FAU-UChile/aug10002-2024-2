@@ -60,7 +60,7 @@
 | [clase-04](clases/clase-04/)             | 2024-08-29 jueves    | repaso y ejercicios unidades 1, 2, 3             |
 | [ayudantia-05](ayudantias/ayudantia-05/) | 2024-09-04 miércoles | control 1: unidades 1, 2, 3                      |
 | [clase-05](clases/clase-05/)             | 2024-09-05 jueves    | unidad 4: energía y trabajo                      |
-| [ayudantia-06](ayudantias/ayudantia-06/) | 2024-09-12 miércoles | unidad 4: energía y trabajo                      |
+| [ayudantia-06](ayudantias/ayudantia-06/) | 2024-09-11 miércoles | unidad 4: energía y trabajo                      |
 | [clase-06](clases/clase-06/)             | 2024-09-12 jueves    | unidad 5: cinemática y dinámica de cuerpo rígido |
 | semana receso                            | 2024-09-16/20        | sin clases, sin evaluaciones                     |
 | [ayudantia-07](ayudantias/ayudantia-07/) | 2024-09-25 miércoles | unidad 5: cinemática y dinámica de cuerpo rígido |
