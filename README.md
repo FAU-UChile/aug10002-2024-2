@@ -40,7 +40,7 @@
 
 ## calendario de evaluaciones
 
-- control 01, 2024-08-29 jueves, en horario de ayudantía
+- control 01, 2024-09-04 miércoles, en horario de ayudantía
 - control 02, 2024-10-02 miércoles, en horario de ayudantía
 - control 03, 2024-10-30 miércoles, en horario de ayudantía
 - control 04, 2024-11-27 miércoles, en horario de ayudantía
