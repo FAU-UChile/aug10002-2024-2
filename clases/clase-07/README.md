@@ -2,7 +2,7 @@
 
 jueves 26 septiembre 2024
 
-unidad 5: calor y temperatura
+unidad 6: calor y temperatura
 
 - gases ideales
 - unidades de medida en gases ideales
