@@ -41,7 +41,7 @@
 ## calendario de evaluaciones
 
 - control 01, 2024-09-04 miércoles, en horario de ayudantía
-- control 02, 2024-10-02 miércoles, en horario de ayudantía
+- control 02, 2024-10-16 miércoles, en horario de ayudantía
 - control 03, 2024-10-30 miércoles, en horario de ayudantía
 - control 04, 2024-11-27 miércoles, en horario de ayudantía
 - trabajo de investigación, 2024-06-23 domingo 11:50pm, durante semana de trabajo autónomo
@@ -64,19 +64,19 @@
 | [clase-06](clases/clase-06/)             | 2024-09-12 jueves    | unidad 5: cinemática y dinámica de cuerpo rígido |
 | semana receso                            | 2024-09-16/20        | sin clases, sin evaluaciones                     |
 | [ayudantia-07](ayudantias/ayudantia-07/) | 2024-09-25 miércoles | unidad 5: cinemática y dinámica de cuerpo rígido |
-| [clase-07](clases/clase-07/)             | 2024-09-26 jueves    | repaso y ejercicios unidades 4, 5                |
-| [ayudantia-08](ayudantias/ayudantia-08/) | 2024-10-02 miércoles | control 2: unidades 4, 5                         |
-| [clase-08](clases/clase-08/)             | 2024-10-03 jueves    | unidad 6: termodinámica                          |
-| [ayudantia-09](ayudantias/ayudantia-09/) | 2024-10-09 miércoles | unidad 6: termodinámica                          |
-| [clase-09](clases/clase-09/)             | 2024-10-10 jueves    | unidad 7: ondas y análisis de Fourier            |
+| [clase-07](clases/clase-07/)             | 2024-09-26 jueves    | unidad 6: termodinámica                          |
+| [ayudantia-08](ayudantias/ayudantia-08/) | 2024-10-02 miércoles | unidad 6: termodinámica                          |
+| [clase-08](clases/clase-08/)             | 2024-10-03 jueves    | unidad 7: ondas y análisis de Fourier            |
+| [ayudantia-09](ayudantias/ayudantia-09/) | 2024-10-09 miércoles | repaso y ejercicios unidades 4, 5                |
+| [clase-09](clases/clase-09/)             | 2024-10-10 jueves    | control 2: unidades 4, 5                         |
 | [ayudantia-10](ayudantias/ayudantia-10/) | 2024-10-16 miércoles | unidad 7: ondas y análisis de Fourier            |
 | [clase-10](clases/clase-10/)             | 2024-10-17 jueves    | unidad 7: ondas y análisis de Fourier            |
 | [ayudantia-11](ayudantias/ayudantia-11/) | 2024-10-23 miércoles | unidad 7: ondas y análisis de Fourier            |
 | [clase-11](clases/clase-11/)             | 2024-10-24 jueves    | repaso y ejercicios unidades 6, 7                |
 | [ayudantia-12](ayudantias/ayudantia-12/) | 2024-10-30 miércoles | control 3: unidades 6, 7                         |
 | [clase-12](clases/clase-12/)             | 2024-10-31 jueves    | no hay clase por feriado                         |
-| [ayudantia-13](ayudantias/ayudantia-13/) | 2024-11-06 miércoles | preparación salida a terreno                     |
-| [clase-13](clases/clase-13/)             | 2024-11-07 jueves    | salida a terreno                                 |
+| [ayudantia-13](ayudantias/ayudantia-13/) | 2024-11-06 miércoles | unidad 8: mecánica de fluidos                    |
+| [clase-13](clases/clase-13/)             | 2024-11-07 jueves    | unidad 8: mecánica de fluidos                    |
 | semana de trabajo autónomo               | 2024-11-11/15        | sin clases, entrega trabajo de investigación     |
 | [ayudantia-14](ayudantias/ayudantia-14/) | 2024-11-20 miércoles | unidad 8: mecánica de fluidos                    |
 | [clase-14](clases/clase-14/)             | 2024-11-21 jueves    | unidad 8: mecánica de fluidos                    |
