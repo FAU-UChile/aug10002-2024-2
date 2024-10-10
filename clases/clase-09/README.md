@@ -40,11 +40,13 @@ a) dibuja el sistema y calcula el torque asociado a esta masa en el extremo.
 
 b) si podemos posar otra otra masa de $20[kg]$ al otro lado del balancín, calcula y dibuja la posición en la que se debe posar para que el balancín esté en equilibrio.
 
-## ejercicio-02 (3 puntos): energía y calorías
+## ejercicio-02 (3 puntos): tensión
 
-a) una manzana tiene $80[kcal]$ de energía, y subir una escalera de 20 metros consume 25 Joules de energía. si quiero subir 7 veces la escalera, cuánta energía consume, y a cuántas manzas equivale?
+Revisar la definición y las ecuaciones de la máquina de Atwood disponible en <https://es.wikipedia.org/wiki/M%C3%A1quina_de_Atwood>
 
-b) si un barril de petróleo tiene una energía de 1700 kWh, cuánta energía es medida en Joules? y si una persona en promedio necesita 2000 kcal al día, si se puede consumir y usar la energía de ese barril de petróleo, cuántos días puede subsistir una persona con un barril?
+a) si en una máquina de Atwood una masa es de 20 kg, y otra es de 100 kg, calcule la tensión en la cuerda.
+
+b) si quiero que la aceleración sea de 2 $\frac{m}{s^2}$, y una de las masas es de 10 kg, calcule el valor de la otra masa.
 
 ## ejercicio-03 (3 puntos): energía potencial y energía cinética
 
@@ -54,12 +56,14 @@ a) calcula la energía potencial de la caja fuerte al alcanzar la altura máxima
 
 b) si la grúa falla y deja caer al elefante desde los $10[m]$, calcule la velocidad del elefante cuando aterrice en el suelo.
 
-## ejercicio-04 (3 puntos): energía potencial y energía cinética
+## ejercicio-04 (3 puntos): plano inclinado
 
-desde el suelo se lanza hacia arriba un piano de masa $m=370[kg]$ y velocidad inicial $v_i = 5.7 [m/s]$.
+en un plano inclinado de $30°$ se abandona un cuerpo que empieza a caer lentamente. el coeficiente de roce entre el plano y el objeto es de $\mu = 0.2$.
 
-calcula:
+a) calcule la aceleración del cuerpo.
 
-a) la energía total del piano en el momento inicial y la altura máxima que alcanza. OJO: considera que la energía potencial en el suelo es cero, que desde el suelo medimos la altura.
+b) si repetimos el ejercicio con los mismos valores, excepto el ángulo de inclinación que ahora es de $45°$, calcule la nueva aceleración del cuerpo.
 
-b) la energía cinética del piano cuando llegue a su altura máxima y la altura del piano en ese instante.
+## ejercicio-extra: si logran hacer este ejericicio, 1 punto extra
+
+una manzana tiene $80[kcal]$ de energía, y subir una escalera de 20 metros consume 25 Joules de energía. si quiero subir 7 veces la escalera, cuánta energía consume, y a cuántas manzas equivale?
