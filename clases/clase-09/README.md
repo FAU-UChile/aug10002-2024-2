@@ -46,7 +46,7 @@ Revisar la definición y las ecuaciones de la máquina de Atwood disponible en <
 
 a) si en una máquina de Atwood una masa es de 20 kg, y otra es de 100 kg, calcule la tensión en la cuerda.
 
-b) si quiero que la aceleración sea de 2 $\frac{m}{s^2}$, y una de las masas es de 10 kg, calcule el valor de la otra masa.
+b) si quiero que la aceleración sea de $2 \frac{m}{s^2}$, y una de las masas es de 10 kg, calcule el valor de la otra masa.
 
 ## ejercicio-03 (3 puntos): energía potencial y energía cinética
 
