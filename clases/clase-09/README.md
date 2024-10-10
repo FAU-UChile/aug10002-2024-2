@@ -64,6 +64,6 @@ a) calcule la aceleración del cuerpo.
 
 b) si repetimos el ejercicio con los mismos valores, excepto el ángulo de inclinación que ahora es de $45°$, calcule la nueva aceleración del cuerpo.
 
-## ejercicio-extra: si logran hacer este ejericicio, 1 punto extra
+## ejercicio-extra: si además hacen este ejercicio, 1 punto extra
 
 una manzana tiene $80[kcal]$ de energía, y subir una escalera de 20 metros consume 25 Joules de energía. si quiero subir 7 veces la escalera, cuánta energía consume, y a cuántas manzas equivale?
