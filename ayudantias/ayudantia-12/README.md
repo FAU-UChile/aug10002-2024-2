@@ -45,13 +45,13 @@ a) si tengo un vaso de agua de masa $m = 200[g]$ a $T = 30[°C]$, y le agrego un
 
 b) si tengo agua de masa $m = 380[g]$ a $T = 32[°C]$, y le agrego un pedazo de cobre de $m = 150 g$ a $T = 730[°C]$, ¿cuál es la temperatura final del sistema?
 
-## ejercicio-03 (3 puntos): onda de sonido
+## ejercicio-03 (3 puntos): onda de luz
 
-si un pajarito emite un sonido con frecuencia de 2.9 kHz
+si un onda de luz tiene una frecuencia de 1.7 Tera Hz
 
 a) ¿cuál es su longitud de onda?
 
-b) si este sonida recorre una distancia de 1.1 kilómetros, ¿cuánto tiempo demora en recorrer esa distancia?
+b) si esta luz recorre una distancia de 1.1 kilómetros, ¿cuánto tiempo demora en recorrer esa distancia?
 
 ## ejercicio-04 (3 puntos): gases ideales
 
