@@ -34,9 +34,11 @@ si tomamos dos puntos de un líquido contenido en una tubería con un pistón hi
 
 $$ P_{a} = P_{b}$$
 
-y consideramos que las caras de ambos lados del pistón son de superficies
+y consideramos que las caras de ambos lados del pistón son de superficies circulares, entonces sus áreas son:
 
-$A_{a} = \Pi /cdot {r_{a}}^2$
+$A_{a} = \pi \cdot {r_{a}}^2$
+
+$A_{a} = \pi \cdot {r_{b}}^2$
 
 ## ejercicio-03: principio de Arquímedes
 
