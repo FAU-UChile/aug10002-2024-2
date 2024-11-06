@@ -28,13 +28,15 @@ donde la letra griega rho ($\rho$) es la densidad del agua, $g$ es la aceleraci�
 
 El principio de Pascal establece que la presión aplicada a un fluido en un recipiente cerrado en condiciones de equilibrio se transmite de forma igual a todas las partes del fluido.
 
-Este principio se utiliza en sistemas hidráulicos.
+este principio se utiliza en sistemas hidráulicos.
 
-si tomamos dos puntos del líquido, e igualamos las presiones:
+si tomamos dos puntos de un líquido contenido en una tubería con un pistón hidráulico, e igualamos las presiones:
 
 $$ P_{a} = P_{b}$$
 
-Pascal's principle may be stated thus: The pressure applied at one point in an enclosed fluid under equilibrium conditions is transmitted equally to all parts of the fluid. This rule is utilized in hydraulic systems. In Figure 1, a push on a cylindrical piston at point a lifts an object at point b
+y consideramos que las caras de ambos lados del pistón son de superficies
+
+$A_{a} = \Pi /cdot {r_{a}}^2$
 
 ## ejercicio-03: principio de Arquímedes
 
