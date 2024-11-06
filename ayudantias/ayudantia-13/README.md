@@ -38,9 +38,19 @@ y consideramos que las caras de ambos lados del pistón son de superficies circu
 
 $A_{a} = \pi \cdot {r_{a}}^2$
 
-$A_{a} = \pi \cdot {r_{b}}^2$
+$A_{b} = \pi \cdot {r_{b}}^2$
 
-## ejercicio-03: principio de Arquímedes
+y si en la ecuación de igualdad de presiones reemplazamos por las definiciones, de que la presión es la fuerza dividida por el área, entonces:
+
+$$ P_{a} = P_{b}$$
+
+$$ \frac{F_{a}{A_{a}}} = \frac{F_{b}{A_{b}}}$$
+
+y con esto, reemplazando ahora las áreas:
+
+$$ \frac{F_{a}{\pi \cdot {r_{a}}^2}} = \frac{F_{b}{\pi \cdot {r_{b}}^2}}$$
+
+## ejercicio-03: principio de Pascal
 
 ## bibliografía
 
