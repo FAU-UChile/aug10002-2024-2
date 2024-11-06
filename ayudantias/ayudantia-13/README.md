@@ -28,11 +28,13 @@ donde la letra griega rho ($\rho$) es la densidad del agua, $g$ es la aceleraci�
 
 ### ejercicios de densidad y altura de columna de líquido
 
+consejo: asumir que presión en la superficie es presión atmosférica.
+
 a) si estoy en una piscina con agua, a profundidad de 1.7 metros bajo la superficie, qué presión experimento?
 
 b) si sumerjo un cuerpo en una piscina con mercurio líquido, y la presión resultante es 2.1 atmósferas, a qué profundidad estoy sumerjiendo el cuerpo?
 
-c)
+c) si la presión que siente un cuerpo a una profundidad de 7 metros bajo la superficie de un líquido es de 7.4 atmósferas, cuál es la densidad de ese líquido?
 
 ## principio de Pascal
 
@@ -69,6 +71,8 @@ $$ \frac{F_{a}{{r_{a}}^2}} = \frac{F_{b}{{r_{b}}^2}}$$
 a) si tengo un sistema con un pistón de radio 500 cm y puedo ejercer una fuerza de 10 N, cuánta es la presión que ejerzo sobre esa área? y si al otro lado del pistón el radio es de 6 metros, cuánta es la presión y la fuerza en ese otro lado del pistón?
 
 b) si tengo que ejercer una fuerza de 7 millones de N al otro lado de un pistón con diámetro 111 cm, qué radio debe tener el lado del pistón donde ejerzo la fuerza si solamente le puedo aplicar 20 N?
+
+c)
 
 ## bibliografía
 
