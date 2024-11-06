@@ -2,7 +2,9 @@
 
 miércoles 06 noviembre 2024
 
-## ejercicio-01: densidad y altura de columna de líquido
+unidad 8: mecánica de fluidos
+
+## densidad y altura de columna de líquido
 
 la presión de un líquido en un recipiente abierto es igual a la presión atmosférica.
 
@@ -24,7 +26,15 @@ $$P_{columna} = \rho \cdot g \cdot h$$
 
 donde la letra griega rho ($\rho$) es la densidad del agua, $g$ es la aceleración de la gravedad y $h$ es la altura de la columna de agua.
 
-## ejercicio-02: principio de Pascal
+### ejercicios de densidad y altura de columna de líquido
+
+a) si estoy en una piscina con agua, a profundidad de 1.7 metros bajo la superficie, qué presión experimento?
+
+b) si sumerjo un cuerpo en una piscina con mercurio líquido, y la presión resultante es 2.1 atmósferas, a qué profundidad estoy sumerjiendo el cuerpo?
+
+c)
+
+## principio de Pascal
 
 El principio de Pascal establece que la presión aplicada a un fluido en un recipiente cerrado en condiciones de equilibrio se transmite de forma igual a todas las partes del fluido.
 
@@ -50,7 +60,15 @@ y con esto, reemplazando ahora las áreas:
 
 $$ \frac{F_{a}{\pi \cdot {r_{a}}^2}} = \frac{F_{b}{\pi \cdot {r_{b}}^2}}$$
 
-## ejercicio-03: principio de Pascal
+simplificanod los términos comunes:
+
+$$ \frac{F_{a}{{r_{a}}^2}} = \frac{F_{b}{{r_{b}}^2}}$$
+
+### ejercicios de principio de Pascal
+
+a) si tengo un sistema con un pistón de radio 500 cm y puedo ejercer una fuerza de 10 N, cuánta es la presión que ejerzo sobre esa área? y si al otro lado del pistón el radio es de 6 metros, cuánta es la presión y la fuerza en ese otro lado del pistón?
+
+b) si tengo que ejercer una fuerza de 7 millones de N al otro lado de un pistón con diámetro 111 cm, qué radio debe tener el lado del pistón donde ejerzo la fuerza si solamente le puedo aplicar 20 N?
 
 ## bibliografía
 
