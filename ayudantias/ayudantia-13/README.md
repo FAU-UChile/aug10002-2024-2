@@ -44,7 +44,7 @@ y si en la ecuación de igualdad de presiones reemplazamos por las definiciones,
 
 $$ P_{a} = P_{b}$$
 
-$$ \frac{F_{a}{A_{a}}} = \frac{F_{b}{A_{b}}}$$
+$$ \frac{F_{a}}{A_{a}} = \frac{F_{b}}{A_{b}}$$
 
 y con esto, reemplazando ahora las áreas:
 
