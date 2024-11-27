@@ -27,15 +27,15 @@ pauta:
 - usa calculadora y los apuntes del curso
 - no olvides las unidades de medida
 
-## ejercicio-01 (3 puntos): pistón y principio de Pascal
+## ejercicio-01 (3 puntos): pistón y principio de Pascal, solución única
 
-a)
+a) si en el primer lado del pistón aplico una fuerza de 111 N y el área correspondiente es de 0.7 ${cm}^2$, ¿cuál es la fuerza que se ejerce en el segundo lado del pistón si esa área es de 3.2 ${m}^2$?
 
-b)
+b) si en el primer lado del pistón poso una masa de 12 kg y el área correspondiente es de 0.9 ${cm}^2$, ¿cuál es el área en el segundo lado del pistón si en ese segundo lado tengo una fuerza de 700 N?
 
-## ejercicio-02 (3 puntos): pistón y principio de Pascal
+## ejercicio-02 (3 puntos): pistón y principio de Pascal, solución abierta
 
-a)
+a) si en el primer lado del pistón ejerzo una fuerza de 10 N sobre un área de 10 ${cm}^2$, qué área debe tener el segundo lado del pistón si quiero obtener una fuerza para levantar una masa de 7321 kg?
 
 b)
 
