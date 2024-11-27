@@ -81,7 +81,6 @@
 | [ayudantia-14](ayudantias/ayudantia-14/) | 2024-11-20 miércoles | unidad 8: mecánica de fluidos                    |
 | [clase-14](clases/clase-14/)             | 2024-11-21 jueves    | unidad 8: mecánica de fluidos                    |
 | [ayudantia-15](ayudantias/ayudantia-15/) | 2024-11-27 miércoles | control 4: unidad 8                              |
-| [clase-15](clases/clase-15/)             | 2024-11-28 jueves    | resumen y cierre del del curso                   |
 | cierre acta                              | 2024-12-13 viernes   | plazo máximo envío actas                         |
 
 ## notas
