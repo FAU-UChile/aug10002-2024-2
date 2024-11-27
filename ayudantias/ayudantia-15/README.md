@@ -39,12 +39,14 @@ a)
 
 b)
 
-## ejercicio-03 (3 puntos): presión por altura de columna de líquido
+## ejercicio-03 (3 puntos): presión por altura de columna de líquido en la Tierra
 
-a) si un cuerpo está a 7.2 metros de profundidad en un líquido con densidad $10 \frac{g}{{cm}^3}$, ¿cuál es la presión que experimenta?
+a) si un cuerpo está a 7.2 metros de profundidad en un líquido con densidad $ \frac{10 g}{{cm}^3}$, ¿cuál es la presión que experimenta?
 
-## ejercicio-04 (3 puntos): presión por altura de columna de líquido
+b) si un cuerpo experimenta una presión de 3.9 atmósferas a 1 cm de profundidad en un líquido, cuál es la densidad del líquido?
 
-a)
+## ejercicio-04 (3 puntos): presión por altura de columna de líquido en otros planetas
 
-b)
+a) un cuerpo en Venus experimenta una presión de 9.2 kPa a 1.2 metros de profundidad en un líquido, ¿cuál es la densidad del líquido? dato: presión atmosférica en Venus es es 9.1 kPa
+
+b) si un cuerpo en Marte experimenta una presión de  una presión de 9.2 kPa a 1.2 centímetros de profundidad en un líquido, ¿cuál es la densidad del líquido? dato: presión atmosférica en Marte es 0.61kPa
