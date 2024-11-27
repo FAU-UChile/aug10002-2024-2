@@ -60,11 +60,11 @@ $$ \frac{F_{a}}{A_{a}} = \frac{F_{b}}{A_{b}}$$
 
 y con esto, reemplazando ahora las áreas:
 
-$$ \frac{F_{a}{\pi \cdot {r_{a}}^2}} = \frac{F_{b}{\pi \cdot {r_{b}}^2}}$$
+$$ \frac{F_{a}}{\pi \cdot {r_{a}}^2} = \frac{F_{b}}{\pi \cdot {r_{b}}^2}$$
 
-simplificanod los términos comunes:
+simplificando los términos comunes:
 
-$$ \frac{F_{a}{{r_{a}}^2}} = \frac{F_{b}{{r_{b}}^2}}$$
+$$ \frac{F_{a}}{{r_{a}}^2} = \frac{F_{b}}{{r_{b}}^2}$$
 
 ### ejercicios de principio de Pascal
 
