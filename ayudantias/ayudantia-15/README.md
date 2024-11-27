@@ -37,16 +37,20 @@ b) si en el primer lado del pistón poso una masa de 12 kg y el área correspond
 
 a) si en el primer lado del pistón ejerzo una fuerza de 10 N sobre un área de 10 ${cm}^2$, qué área debe tener el segundo lado del pistón si quiero obtener una fuerza para levantar una masa de 7321 kg?
 
-b)
+b) si en el primer lado del pistón ejerzo una fuerza de 1.2 N y en el segundo lado del pistón tengo fuerza suficiente para levantar una masa de 701 N, entonces brinda 2 posibles combinaciones de áreas para ambos lados del pistón.
 
 ## ejercicio-03 (3 puntos): presión por altura de columna de líquido en la Tierra
 
-a) si un cuerpo está a 7.2 metros de profundidad en un líquido con densidad $ \frac{10 g}{{cm}^3}$, ¿cuál es la presión que experimenta?
+a) si un cuerpo está a 7.2 metros de profundidad en un líquido con densidad $\frac{10 g}{{cm}^3}$, ¿cuál es la presión que experimenta?
 
 b) si un cuerpo experimenta una presión de 3.9 atmósferas a 1 cm de profundidad en un líquido, cuál es la densidad del líquido?
 
 ## ejercicio-04 (3 puntos): presión por altura de columna de líquido en otros planetas
 
-a) un cuerpo en Venus experimenta una presión de 9.2 kPa a 1.2 metros de profundidad en un líquido, ¿cuál es la densidad del líquido? dato: presión atmosférica en Venus es es 9.1 kPa
+a) un cuerpo en Venus experimenta una presión de 9.2 kPa a 1.2 metros de profundidad en un líquido, ¿cuál es la densidad del líquido?
 
-b) si un cuerpo en Marte experimenta una presión de  una presión de 9.2 kPa a 1.2 centímetros de profundidad en un líquido, ¿cuál es la densidad del líquido? dato: presión atmosférica en Marte es 0.61kPa
+dato: presión atmosférica en Venus es es 9.1 kPa
+
+b) si un cuerpo en Marte experimenta una presión de  una presión de 9.2 kPa a 1.2 centímetros de profundidad en un líquido, ¿cuál es la densidad del líquido?
+
+dato: presión atmosférica en Marte es 0.61kPa
